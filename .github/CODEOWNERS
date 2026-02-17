@@ -178,7 +178,7 @@
 # ServiceLabel: %Confidential Ledger
 
 # PRLabel: %Container Registry
-/sdk/containerregistry/    @Azure/azsdk-acr @jeremymeng @timovv
+/sdk/containerregistry/    @Azure/azure-sdk-write-acracr @jeremymeng @timovv
 
 # AzureSdkOwners: @jeremymeng @timovv
 # ServiceLabel: %Container Registry
