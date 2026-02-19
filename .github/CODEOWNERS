@@ -180,7 +180,7 @@
 # PRLabel: %Container Registry
 /sdk/containerregistry/    @Azure/azure-sdk-write-acr
 
-# AzureSdkOwners: @jeremymeng @timovv
+# AzureSdkOwners: @Azure/azure-sdk-write-acr
 # ServiceLabel: %Container Registry
 
 # PRLabel: %Cosmos
